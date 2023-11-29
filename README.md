@@ -1,5 +1,4 @@
-<h1 align="center"> history dictates that he who holds wisdom is the greatest fool. </h1>
-===================================
+<h1 align="left"> 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐝𝐢𝐜𝐭𝐚𝐭𝐞𝐬 𝐭𝐡𝐚𝐭 𝐡𝐞 𝐰𝐡𝐨 𝐡𝐨𝐥𝐝𝐬 𝐰𝐢𝐬𝐝𝐨𝐦 𝐢𝐬 𝐭𝐡𝐞 𝐠𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐟𝐨𝐨𝐥. </h1>
 
 <h1 align="left"> Tech Student </h1>
 
@@ -7,10 +6,10 @@
 
 <p align="left"> I'm a 19-year-old residing in the City of Las Pinas, a logical and practical individual who strives for knowledge. </p>
 
-<p align="left"> * 🌍  I'm currently living in the Philippines </p>
-<p align="left"> * ✉️  You can contact me at [andreihartarroyo@gmail.com](mailto:andreihartarroyo@gmail.com) </p>
-<p align="left"> * 🧠  I'm currently learning Java and studying (BSIS) at (DFCAMCLP) </p>
-<p align="left"> * ⚡  I like reading manga </p>
+<p align="left"> 🌍  I'm currently living in the Philippines </p>
+<p align="left"> ✉️  You can contact me at [andreihartarroyo@gmail.com](mailto:andreihartarroyo@gmail.com) </p>
+<p align="left"> 🧠  I'm currently learning Java and studying (BSIS) at (DFCAMCLP) </p>
+<p align="left"> ⚡  I like reading manga </p>
 
 ###
 
