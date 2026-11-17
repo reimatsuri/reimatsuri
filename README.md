@@ -1,4 +1,5 @@
-# It is those who possess wisdom who are the greatest fools. History has shown us this.
+# It is those who possess wisdom who are the greatest fools.
+# History has shown us this.
 
 ### BSIS Student | Aspiring Developer
 
@@ -92,22 +93,22 @@ React Native · TypeScript · Django REST Framework · Python · MongoDB Atlas �
 
 ## 🌐 Connect With Me
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/reimatsuri)
-[![Facebook](https://cdn.simpleicons.org/facebook/1877F2)](https://www.facebook.com/reimatsuri)
-[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://www.instagram.com/reimatsuri)
-[![X](https://cdn.simpleicons.org/x/FFFFFF)](https://x.com/reimatsuri)
-[![YouTube](https://cdn.simpleicons.org/youtube/FF0000)](https://www.youtube.com/@reimatsuri)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/reimatsuri)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/reimatsuri)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/reimatsuri)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/reimatsuri)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/reimatsuri)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@reimatsuri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/reimatsuri)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reimatsuri&show_icons=true&count_private=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=reimatsuri&show_icons=true&count_private=true&theme=transparent&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reimatsuri&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reimatsuri&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=reimatsuri&layout=compact&langs_count=8&theme=transparent&hide_border=true)
 
 ---
 
